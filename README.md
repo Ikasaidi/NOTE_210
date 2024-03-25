@@ -7,4 +7,4 @@ git add *
 git commit -m "message"
 git push origin main
 ```
-# voila 
+# voila c'est comme ca que tu push dans le terminal
